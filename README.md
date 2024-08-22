@@ -56,24 +56,19 @@ void FirstCodeObject::StartCodeEngine()
 
 
 
-
 Preview
 ![Preview](https://github.com/Carcodee/Code-Game-Engine/assets/74780908/680b5d4d-0f62-4be7-ac14-9f38a6d7aea7)
-https://github.com/Carcodee/Code-Game-Engine/assets/74780908/1c33f831-1c53-47d0-91cc-d0c86e52334f
 
 
 Set textures pasting the explorer filepath in the "Extract textures" of the model data, the file name with the textures should be the same as the one in the "Models/PBRTextures" folder.
 
 ![Muffing](https://github.com/Carcodee/Code-Game-Engine/assets/74780908/0944f88f-eb26-4359-ac55-f522bedc7313)
-https://github.com/Carcodee/Code-Game-Engine/assets/74780908/ea3ecb3f-ef05-4571-a0a3-5a4b18159eb5
 
-https://github.com/Carcodee/Code-Game-Engine/assets/74780908/306cddde-9b70-46fd-acb2-a0463540d003
 ![PBR](https://github.com/Carcodee/Code-Game-Engine/assets/74780908/a70d0330-c1f3-4309-87a8-4ba9975496bf)
 
 Issues:
 
 -Only supported for visual studio
-
 
 PD: I would love to implement a lot more features but this is it for now. Any advice for this project is valuable :D
 
